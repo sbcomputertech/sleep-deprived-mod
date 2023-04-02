@@ -1,0 +1,40 @@
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.csproj.AssemblyReference.cache
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.AssemblyInfoInputs.cache
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.AssemblyInfo.cs
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.csproj.CoreCompileInputs.cache
+/home/ecorous/temp/ExampleMod/ExampleMod/bin/Release/netstandard2.0/ExampleMod.deps.json
+/home/ecorous/temp/ExampleMod/ExampleMod/bin/Release/netstandard2.0/ExampleMod.dll
+/home/ecorous/temp/ExampleMod/ExampleMod/bin/Release/netstandard2.0/0Harmony.dll
+/home/ecorous/temp/ExampleMod/ExampleMod/bin/Release/netstandard2.0/BepInEx.Core.dll
+/home/ecorous/temp/ExampleMod/ExampleMod/bin/Release/netstandard2.0/BepInEx.Unity.dll
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.csproj.CopyComplete
+/home/ecorous/temp/ExampleMod/ExampleMod/obj/Release/netstandard2.0/ExampleMod.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\0Harmony.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\Assembly-CSharp.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\BepInEx.Core.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\BepInEx.Unity.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\MyScriptAssembly.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\ExampleMod.csproj.AssemblyReference.cache
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\ExampleMod.AssemblyInfoInputs.cache
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\ExampleMod.AssemblyInfo.cs
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\ExampleMod.csproj.CoreCompileInputs.cache
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\ExampleMod.csproj.CopyComplete
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\Ultimatum.deps.json
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\bin\Release\netstandard2.0\Ultimatum.dll
+C:\Users\reddust9\cobweb\ultimatim\ExampleMod\obj\Release\netstandard2.0\Ultimatum.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\SleepDeprived.deps.json
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\SleepDeprived.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\0Harmony.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\Assembly-CSharp.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\BepInEx.Core.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\BepInEx.Unity.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\bin\Release\netstandard2.0\MyScriptAssembly.dll
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\ExampleMod.csproj.AssemblyReference.cache
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\ExampleMod.AssemblyInfoInputs.cache
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\ExampleMod.AssemblyInfo.cs
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\ExampleMod.csproj.CoreCompileInputs.cache
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\ExampleMod.csproj.CopyComplete
+C:\Users\samb0\cobweb\mods\hallucination mode\ExampleMod\obj\Release\netstandard2.0\SleepDeprived.dll
