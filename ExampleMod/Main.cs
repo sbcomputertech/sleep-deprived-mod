@@ -23,7 +23,7 @@ public class Main : BaseUnityPlugin
     private void OnSceneLoadEvent(Scene arg0, LoadSceneMode arg1)
     {
         var fail = arg0.GetRootGameObjects()
-            .Where(o => o.name.Contains("Background"))
+            .Where(o => o.name.Contains("Background") || o.name.Contains("Lights"))
             .Select(o => o.SetActiveReturn(false))
             .Any();
         if(fail) Logger.LogWarning("Not all objects were set inactive!");
